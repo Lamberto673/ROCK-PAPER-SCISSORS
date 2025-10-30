@@ -36,7 +36,7 @@
 
 ## 🕹️ Gameplay Preview
 <p align="center">
-  <img src="screenshot.png" width="500" alt="Rock Paper Scissors Preview">
+  <img src="e2f65d8a-99e5-4529-bef9-3cd3a53293da.jpeg" width="500" alt="Rock Paper Scissors Preview">
 </p>
 
 ---
