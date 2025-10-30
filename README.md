@@ -8,7 +8,7 @@
 ---
 
 ## 🎮 Live Demo
-> 🔗 [Click here to play the game](https://your-demo-link.com)  
+> 🔗 [Click here to play the game]([https://your-demo-link.com](https://rock2scissorspaper.netlify.app/))  
 *(replace this link with your GitHub Pages / Netlify link)*
 
 ---
